@@ -1,0 +1,39 @@
+.box1{
+    padding: 50px 100px 50px 100px;
+    margin: 50px 300px 50px 300px ;
+    background-color: #4aa272;
+}
+.text1{
+    padding: 20px;
+    font-weight: 700;
+    font-size: 25px;
+    border: 1px solid gainsboro;
+    text-align: center;
+}
+.box2{
+    background: white;
+}
+.box3{
+    margin: 10px;
+}
+.text2{
+    height: 80px;
+    background-color: #3064A0;
+    text-align: center;
+
+}
+.text3{
+    height: 80px;
+    background-color: #C74A4A;
+    text-align: center;
+}
+.text4{
+    font-weight: 700;
+    font-size: 20px;
+
+}
+.button{
+    float: right;
+}
+
+
